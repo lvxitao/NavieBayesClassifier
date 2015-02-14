@@ -1,0 +1,55 @@
+without idf and Opinion
+
+******************* 
+   CP  CN  CNE  CM
+AP 338  23   198   13
+AN 70  98   105   10
+ANe208  63   400  24
+AM 49   11   53   11
+
+*******************
+precision of positive is: 0.5082707
+precision of negative is: 0.50256413
+precision of neutral is: 0.52910054
+precision of mixed is: 0.18965517
+*******************
+recall of positive is: 0.59090906
+recall of negative is: 0.34628975
+recall of neutral is: 0.5755396
+recall of mixed is: 0.088709675
+*******************
+F-Score of positive is: 0.5464834
+F-Score of negative is: 0.41004184
+F-Score of neutral is: 0.5513439
+F-Score of mixed is: 0.12087913
+*******************
+overall accuracy is: 0.5056716
+
+
+
+Final
+
+******************* 
+   CP  CN  CNE  CM
+AP 350  17   198   7
+AN 67  96   110   10
+ANe205  52   422  16
+AM 45   9   60   10
+
+*******************
+precision of positive is: 0.52473766
+precision of negative is: 0.55172414
+precision of neutral is: 0.53417724
+precision of mixed is: 0.23255815
+*******************
+recall of positive is: 0.6118881
+recall of negative is: 0.3392226
+recall of neutral is: 0.60719424
+recall of mixed is: 0.08064516
+*******************
+F-Score of positive is: 0.5649718
+F-Score of negative is: 0.4201313
+F-Score of neutral is: 0.5683502
+F-Score of mixed is: 0.119760476
+*******************
+overall accuracy is: 0.5241791
